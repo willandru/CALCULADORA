@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+/home/kaliw/GITHUB/CALCULADORA/.metadata/.plugins/org.eclipse.jdt.core
+1865797976.index
+1541162838.index
+646308851.index
